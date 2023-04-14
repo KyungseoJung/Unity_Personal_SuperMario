@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Enemy
+  - Ground
+  - AllPlayer
+  - Music
+  - Goal
+  - LobbyManager
+  - Canvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemies
+  - NormalBlock
+  - ItemBlock
+  - CoinBlock
+  - Items
+  - LevelChange
+  - DeadEnemies
+  - Players
+  - Obstacle
+  - StarItem
+  - Fireball
+  - Weapon
+  - DeadPlayers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4023153427
+    locked: 0
+  - name: Foreground
+    uniqueID: 641635729
+    locked: 0
+  - name: Character
+    uniqueID: 3622987293
+    locked: 0
+  - name: UI
+    uniqueID: 2516214645
+    locked: 0

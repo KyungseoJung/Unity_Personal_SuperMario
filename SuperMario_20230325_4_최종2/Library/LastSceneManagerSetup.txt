@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/SuperMario1/1. Scenes/scPlay0.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0

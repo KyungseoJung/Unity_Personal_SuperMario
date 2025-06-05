@@ -30,6 +30,8 @@ public class LobbyManager : MonoBehaviour
 
     void Awake()
     {
+        Screen.SetResolution(512, 480, true);   // 해상도 설정(2025.06.05)
+        
         music = GameObject.FindGameObjectWithTag("Music").GetComponent<Music>();
         canvas = GameObject.FindGameObjectWithTag("Canvas");
     }
